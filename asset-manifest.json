@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yashvaddi.github.io/csb-cnp1fg/static/css/main.aba33a2d.chunk.css",
+    "main.js": "https://yashvaddi.github.io/csb-cnp1fg/static/js/main.91e73a50.chunk.js",
+    "main.js.map": "https://yashvaddi.github.io/csb-cnp1fg/static/js/main.91e73a50.chunk.js.map",
+    "runtime-main.js": "https://yashvaddi.github.io/csb-cnp1fg/static/js/runtime-main.7928b8fc.js",
+    "runtime-main.js.map": "https://yashvaddi.github.io/csb-cnp1fg/static/js/runtime-main.7928b8fc.js.map",
+    "static/js/2.b968d199.chunk.js": "https://yashvaddi.github.io/csb-cnp1fg/static/js/2.b968d199.chunk.js",
+    "static/js/2.b968d199.chunk.js.map": "https://yashvaddi.github.io/csb-cnp1fg/static/js/2.b968d199.chunk.js.map",
+    "index.html": "https://yashvaddi.github.io/csb-cnp1fg/index.html",
+    "static/css/main.aba33a2d.chunk.css.map": "https://yashvaddi.github.io/csb-cnp1fg/static/css/main.aba33a2d.chunk.css.map",
+    "static/js/2.b968d199.chunk.js.LICENSE.txt": "https://yashvaddi.github.io/csb-cnp1fg/static/js/2.b968d199.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7928b8fc.js",
+    "static/js/2.b968d199.chunk.js",
+    "static/css/main.aba33a2d.chunk.css",
+    "static/js/main.91e73a50.chunk.js"
+  ]
+}
